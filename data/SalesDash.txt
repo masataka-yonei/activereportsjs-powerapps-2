@@ -1,0 +1,192 @@
+﻿AllComponent	AllComponent	693000	AllComponent for ASP.NET 2014J	コンポーネントセット	ASP.NET	04	2014	62000000
+AllComponent	AllComponent	5145000	AllComponent for Windows Forms 2010J	コンポーネントセット	Windows Forms	04	2014	62000000
+AllComponent	AllComponent	6783000	AllComponent Enterprise 2014J	コンポーネントセット	共通	04	2014	62000000
+AnotherPak	AnotherPak	2079000	AnotherPak for Windows Forms 6.0J	フォームデザイン	Windows Forms	04	2014	62000000
+CADHSuite	CADHSuite	4468800	CADHSuite 2.5J	インターネット通信	共通	04	2014	62000000
+CommunicationSuite	CommunicationSuite	4527600	CommunicationSuite for .NET	インターネット通信	共通	04	2014	62000000
+EXSheet	EXSheet	5040000	EXSheet for ASP.NET 5.0J	グリッド	ASP.NET	04	2014	62000000
+EXSheet	EXSheet	5208000	EXSheet for .NET	グリッド	Windows Forms	04	2014	62000000
+Gsheet	Gsheet	3528000	Gsheet 4.0J	グリッド	Windows Forms	04	2014	62000000
+ImageView	ImageView	4263000	ImageView 16.5J Imaging Pro	画像処理	共通	04	2014	62000000
+KindInput	KindInput	3780000	KindInput for ASP.NET 3.0J	入力支援	ASP.NET	04	2014	62000000
+KindInput	KindInput	4914000	KindInput for Windows Forms 5.0J	入力支援	Windows Forms	04	2014	62000000
+MaxGrid	MaxGrid	1386000	MaxGrid for ASP.NET 1.0J	グリッド	ASP.NET	04	2014	62000000
+MaxGrid	MaxGrid	3150000	MaxGrid for Windows Forms 6.0J	グリッド	Windows Forms	04	2014	62000000
+Multi Reports	Multi Reports	8526000	Multi Reports for .NET	帳票	共通	04	2014	62000000
+SpeedGrid	SpeedGrid	3591000	SpeedGrid for Windows Forms 5.0J	グリッド	Windows Forms	04	2014	62000000
+AllComponent	AllComponent	2887500	AllComponent for ASP.NET 2014J	コンポーネントセット	ASP.NET	05	2014	62000000
+AllComponent	AllComponent	2940000	AllComponent for Windows Forms 2010J	コンポーネントセット	Windows Forms	05	2014	62000000
+AllComponent	AllComponent	3990000	AllComponent Enterprise 2014J	コンポーネントセット	共通	05	2014	62000000
+AnotherPak	AnotherPak	1940400	AnotherPak for Windows Forms 6.0J	フォームデザイン	Windows Forms	05	2014	62000000
+CADHSuite	CADHSuite	2553600	CADHSuite 2.5J	インターネット通信	共通	05	2014	62000000
+CommunicationSuite	CommunicationSuite	2572500	CommunicationSuite for .NET	インターネット通信	共通	05	2014	62000000
+EXSheet	EXSheet	5040000	EXSheet for ASP.NET 5.0J	グリッド	ASP.NET	05	2014	62000000
+EXSheet	EXSheet	4032000	EXSheet for .NET	グリッド	Windows Forms	05	2014	62000000
+Gsheet	Gsheet	1176000	Gsheet 4.0J	グリッド	Windows Forms	05	2014	62000000
+ImageView	ImageView	294000	ImageView 16.5J Imaging Pro	画像処理	共通	05	2014	62000000
+KindInput	KindInput	2142000	KindInput for ASP.NET 3.0J	入力支援	ASP.NET	05	2014	62000000
+KindInput	KindInput	2016000	KindInput for Windows Forms 5.0J	入力支援	Windows Forms	05	2014	62000000
+MaxGrid	MaxGrid	4410000	MaxGrid for ASP.NET 1.0J	グリッド	ASP.NET	05	2014	62000000
+MaxGrid	MaxGrid	3780000	MaxGrid for Windows Forms 6.0J	グリッド	Windows Forms	05	2014	62000000
+Multi Reports	Multi Reports	10290000	Multi Reports for .NET	帳票	共通	05	2014	62000000
+SpeedGrid	SpeedGrid	3307500	SpeedGrid for Windows Forms 5.0J	グリッド	Windows Forms	05	2014	62000000
+AllComponent	AllComponent	1386000	AllComponent for ASP.NET 2014J	コンポーネントセット	ASP.NET	06	2014	62000000
+AllComponent	AllComponent	2352000	AllComponent for Windows Forms 2010J	コンポーネントセット	Windows Forms	06	2014	62000000
+AllComponent	AllComponent	6583500	AllComponent Enterprise 2014J	コンポーネントセット	共通	06	2014	62000000
+AnotherPak	AnotherPak	2217600	AnotherPak for Windows Forms 6.0J	フォームデザイン	Windows Forms	06	2014	62000000
+CADHSuite	CADHSuite	2394000	CADHSuite 2.5J	インターネット通信	共通	06	2014	62000000
+CommunicationSuite	CommunicationSuite	3395700	CommunicationSuite for .NET	インターネット通信	共通	06	2014	62000000
+EXSheet	EXSheet	8232000	EXSheet for ASP.NET 5.0J	グリッド	ASP.NET	06	2014	62000000
+EXSheet	EXSheet	2520000	EXSheet for .NET	グリッド	Windows Forms	06	2014	62000000
+Gsheet	Gsheet	3948000	Gsheet 4.0J	グリッド	Windows Forms	06	2014	62000000
+ImageView	ImageView	7203000	ImageView 16.5J Imaging Pro	画像処理	共通	06	2014	62000000
+KindInput	KindInput	4788000	KindInput for ASP.NET 3.0J	入力支援	ASP.NET	06	2014	62000000
+KindInput	KindInput	2142000	KindInput for Windows Forms 5.0J	入力支援	Windows Forms	06	2014	62000000
+MaxGrid	MaxGrid	2016000	MaxGrid for ASP.NET 1.0J	グリッド	ASP.NET	06	2014	62000000
+MaxGrid	MaxGrid	6552000	MaxGrid for Windows Forms 6.0J	グリッド	Windows Forms	06	2014	62000000
+Multi Reports	Multi Reports	8526000	Multi Reports for .NET	帳票	共通	06	2014	62000000
+SpeedGrid	SpeedGrid	4536000	SpeedGrid for Windows Forms 5.0J	グリッド	Windows Forms	06	2014	62000000
+AllComponent	AllComponent	577500	AllComponent for ASP.NET 2014J	コンポーネントセット	ASP.NET	07	2014	65000000
+AllComponent	AllComponent	4998000	AllComponent for Windows Forms 2010J	コンポーネントセット	Windows Forms	07	2014	65000000
+AllComponent	AllComponent	6184500	AllComponent Enterprise 2014J	コンポーネントセット	共通	07	2014	65000000
+AnotherPak	AnotherPak	1524600	AnotherPak for Windows Forms 6.0J	フォームデザイン	Windows Forms	07	2014	65000000
+CADHSuite	CADHSuite	1276800	CADHSuite 2.5J	インターネット通信	共通	07	2014	65000000
+CommunicationSuite	CommunicationSuite	3601500	CommunicationSuite for .NET	インターネット通信	共通	07	2014	65000000
+EXSheet	EXSheet	4704000	EXSheet for ASP.NET 5.0J	グリッド	ASP.NET	07	2014	65000000
+EXSheet	EXSheet	3864000	EXSheet for .NET	グリッド	Windows Forms	07	2014	65000000
+Gsheet	Gsheet	2352000	Gsheet 4.0J	グリッド	Windows Forms	07	2014	65000000
+ImageView	ImageView	4998000	ImageView 16.5J Imaging Pro	画像処理	共通	07	2014	65000000
+KindInput	KindInput	5040000	KindInput for ASP.NET 3.0J	入力支援	ASP.NET	07	2014	65000000
+KindInput	KindInput	3150000	KindInput for Windows Forms 5.0J	入力支援	Windows Forms	07	2014	65000000
+MaxGrid	MaxGrid	2268000	MaxGrid for ASP.NET 1.0J	グリッド	ASP.NET	07	2014	65000000
+MaxGrid	MaxGrid	3654000	MaxGrid for Windows Forms 6.0J	グリッド	Windows Forms	07	2014	65000000
+Multi Reports	Multi Reports	4998000	Multi Reports for .NET	帳票	共通	07	2014	65000000
+SpeedGrid	SpeedGrid	2268000	SpeedGrid for Windows Forms 5.0J	グリッド	Windows Forms	07	2014	65000000
+AllComponent	AllComponent	577500	AllComponent for ASP.NET 2014J	コンポーネントセット	ASP.NET	08	2014	65000000
+AllComponent	AllComponent	4704000	AllComponent for Windows Forms 2010J	コンポーネントセット	Windows Forms	08	2014	65000000
+AllComponent	AllComponent	5386500	AllComponent Enterprise 2014J	コンポーネントセット	共通	08	2014	65000000
+AnotherPak	AnotherPak	2633400	AnotherPak for Windows Forms 6.0J	フォームデザイン	Windows Forms	08	2014	65000000
+CADHSuite	CADHSuite	6064800	CADHSuite 2.5J	インターネット通信	共通	08	2014	65000000
+CommunicationSuite	CommunicationSuite	2984100	CommunicationSuite for .NET	インターネット通信	共通	08	2014	65000000
+EXSheet	EXSheet	5376000	EXSheet for ASP.NET 5.0J	グリッド	ASP.NET	08	2014	65000000
+EXSheet	EXSheet	4536000	EXSheet for .NET	グリッド	Windows Forms	08	2014	65000000
+Gsheet	Gsheet	1848000	Gsheet 4.0J	グリッド	Windows Forms	08	2014	65000000
+ImageView	ImageView	5292000	ImageView 16.5J Imaging Pro	画像処理	共通	08	2014	65000000
+KindInput	KindInput	3654000	KindInput for ASP.NET 3.0J	入力支援	ASP.NET	08	2014	65000000
+KindInput	KindInput	2898000	KindInput for Windows Forms 5.0J	入力支援	Windows Forms	08	2014	65000000
+MaxGrid	MaxGrid	4158000	MaxGrid for ASP.NET 1.0J	グリッド	ASP.NET	08	2014	65000000
+MaxGrid	MaxGrid	3150000	MaxGrid for Windows Forms 6.0J	グリッド	Windows Forms	08	2014	65000000
+Multi Reports	Multi Reports	4410000	Multi Reports for .NET	帳票	共通	08	2014	65000000
+SpeedGrid	SpeedGrid	3780000	SpeedGrid for Windows Forms 5.0J	グリッド	Windows Forms	08	2014	65000000
+AllComponent	AllComponent	1386000	AllComponent for ASP.NET 2014J	コンポーネントセット	ASP.NET	09	2014	65000000
+AllComponent	AllComponent	5439000	AllComponent for Windows Forms 2010J	コンポーネントセット	Windows Forms	09	2014	65000000
+AllComponent	AllComponent	3790500	AllComponent Enterprise 2014J	コンポーネントセット	共通	09	2014	65000000
+AnotherPak	AnotherPak	4435200	AnotherPak for Windows Forms 6.0J	フォームデザイン	Windows Forms	09	2014	65000000
+CADHSuite	CADHSuite	4788000	CADHSuite 2.5J	インターネット通信	共通	09	2014	65000000
+CommunicationSuite	CommunicationSuite	4630500	CommunicationSuite for .NET	インターネット通信	共通	09	2014	65000000
+EXSheet	EXSheet	6888000	EXSheet for ASP.NET 5.0J	グリッド	ASP.NET	09	2014	65000000
+EXSheet	EXSheet	1344000	EXSheet for .NET	グリッド	Windows Forms	09	2014	65000000
+Gsheet	Gsheet	4620000	Gsheet 4.0J	グリッド	Windows Forms	09	2014	65000000
+ImageView	ImageView	9261000	ImageView 16.5J Imaging Pro	画像処理	共通	09	2014	65000000
+KindInput	KindInput	4536000	KindInput for ASP.NET 3.0J	入力支援	ASP.NET	09	2014	65000000
+KindInput	KindInput	3780000	KindInput for Windows Forms 5.0J	入力支援	Windows Forms	09	2014	65000000
+MaxGrid	MaxGrid	5670000	MaxGrid for ASP.NET 1.0J	グリッド	ASP.NET	09	2014	65000000
+MaxGrid	MaxGrid	1764000	MaxGrid for Windows Forms 6.0J	グリッド	Windows Forms	09	2014	65000000
+Multi Reports	Multi Reports	7350000	Multi Reports for .NET	帳票	共通	09	2014	65000000
+SpeedGrid	SpeedGrid	4914000	SpeedGrid for Windows Forms 5.0J	グリッド	Windows Forms	09	2014	65000000
+AllComponent	AllComponent	2887500	AllComponent for ASP.NET 2014J	コンポーネントセット	ASP.NET	10	2014	65000000
+AllComponent	AllComponent	5145000	AllComponent for Windows Forms 2010J	コンポーネントセット	Windows Forms	10	2014	65000000
+AllComponent	AllComponent	1197000	AllComponent Enterprise 2014J	コンポーネントセット	共通	10	2014	65000000
+AnotherPak	AnotherPak	1247400	AnotherPak for Windows Forms 6.0J	フォームデザイン	Windows Forms	10	2014	65000000
+CADHSuite	CADHSuite	4149600	CADHSuite 2.5J	インターネット通信	共通	10	2014	65000000
+CommunicationSuite	CommunicationSuite	617400	CommunicationSuite for .NET	インターネット通信	共通	10	2014	65000000
+EXSheet	EXSheet	5880000	EXSheet for ASP.NET 5.0J	グリッド	ASP.NET	10	2014	65000000
+EXSheet	EXSheet	5880000	EXSheet for .NET	グリッド	Windows Forms	10	2014	65000000
+Gsheet	Gsheet	336000	Gsheet 4.0J	グリッド	Windows Forms	10	2014	65000000
+ImageView	ImageView	2205000	ImageView 16.5J Imaging Pro	画像処理	共通	10	2014	65000000
+KindInput	KindInput	4914000	KindInput for ASP.NET 3.0J	入力支援	ASP.NET	10	2014	65000000
+KindInput	KindInput	5040000	KindInput for Windows Forms 5.0J	入力支援	Windows Forms	10	2014	65000000
+MaxGrid	MaxGrid	1008000	MaxGrid for ASP.NET 1.0J	グリッド	ASP.NET	10	2014	65000000
+MaxGrid	MaxGrid	252000	MaxGrid for Windows Forms 6.0J	グリッド	Windows Forms	10	2014	65000000
+Multi Reports	Multi Reports	11760000	Multi Reports for .NET	帳票	共通	10	2014	65000000
+SpeedGrid	SpeedGrid	3307500	SpeedGrid for Windows Forms 5.0J	グリッド	Windows Forms	10	2014	65000000
+AllComponent	AllComponent	1732500	AllComponent for ASP.NET 2014J	コンポーネントセット	ASP.NET	11	2014	65000000
+AllComponent	AllComponent	6615000	AllComponent for Windows Forms 2010J	コンポーネントセット	Windows Forms	11	2014	65000000
+AllComponent	AllComponent	2194500	AllComponent Enterprise 2014J	コンポーネントセット	共通	11	2014	65000000
+AnotherPak	AnotherPak	693000	AnotherPak for Windows Forms 6.0J	フォームデザイン	Windows Forms	11	2014	65000000
+CADHSuite	CADHSuite	1436400	CADHSuite 2.5J	インターネット通信	共通	11	2014	65000000
+CommunicationSuite	CommunicationSuite	514500	CommunicationSuite for .NET	インターネット通信	共通	11	2014	65000000
+EXSheet	EXSheet	7560000	EXSheet for ASP.NET 5.0J	グリッド	ASP.NET	11	2014	65000000
+EXSheet	EXSheet	8400000	EXSheet for .NET	グリッド	Windows Forms	11	2014	65000000
+Gsheet	Gsheet	840000	Gsheet 4.0J	グリッド	Windows Forms	11	2014	65000000
+ImageView	ImageView	1176000	ImageView 16.5J Imaging Pro	画像処理	共通	11	2014	65000000
+KindInput	KindInput	3780000	KindInput for ASP.NET 3.0J	入力支援	ASP.NET	11	2014	65000000
+KindInput	KindInput	5670000	KindInput for Windows Forms 5.0J	入力支援	Windows Forms	11	2014	65000000
+MaxGrid	MaxGrid	1764000	MaxGrid for ASP.NET 1.0J	グリッド	ASP.NET	11	2014	65000000
+MaxGrid	MaxGrid	2016000	MaxGrid for Windows Forms 6.0J	グリッド	Windows Forms	11	2014	65000000
+Multi Reports	Multi Reports	13230000	Multi Reports for .NET	帳票	共通	11	2014	65000000
+SpeedGrid	SpeedGrid	1512000	SpeedGrid for Windows Forms 5.0J	グリッド	Windows Forms	11	2014	65000000
+AllComponent	AllComponent	3465000	AllComponent for ASP.NET 2014J	コンポーネントセット	ASP.NET	12	2014	65000000
+AllComponent	AllComponent	5145000	AllComponent for Windows Forms 2010J	コンポーネントセット	Windows Forms	12	2014	65000000
+AllComponent	AllComponent	1596000	AllComponent Enterprise 2014J	コンポーネントセット	共通	12	2014	65000000
+AnotherPak	AnotherPak	346500	AnotherPak for Windows Forms 6.0J	フォームデザイン	Windows Forms	12	2014	65000000
+CADHSuite	CADHSuite	798000	CADHSuite 2.5J	インターネット通信	共通	12	2014	65000000
+CommunicationSuite	CommunicationSuite	1337700	CommunicationSuite for .NET	インターネット通信	共通	12	2014	65000000
+EXSheet	EXSheet	3864000	EXSheet for ASP.NET 5.0J	グリッド	ASP.NET	12	2014	65000000
+EXSheet	EXSheet	5880000	EXSheet for .NET	グリッド	Windows Forms	12	2014	65000000
+Gsheet	Gsheet	840000	Gsheet 4.0J	グリッド	Windows Forms	12	2014	65000000
+ImageView	ImageView	1764000	ImageView 16.5J Imaging Pro	画像処理	共通	12	2014	65000000
+KindInput	KindInput	2520000	KindInput for ASP.NET 3.0J	入力支援	ASP.NET	12	2014	65000000
+KindInput	KindInput	3150000	KindInput for Windows Forms 5.0J	入力支援	Windows Forms	12	2014	65000000
+MaxGrid	MaxGrid	1134000	MaxGrid for ASP.NET 1.0J	グリッド	ASP.NET	12	2014	65000000
+MaxGrid	MaxGrid	1134000	MaxGrid for Windows Forms 6.0J	グリッド	Windows Forms	12	2014	65000000
+Multi Reports	Multi Reports	20580000	Multi Reports for .NET	帳票	共通	12	2014	65000000
+SpeedGrid	SpeedGrid	4252500	SpeedGrid for Windows Forms 5.0J	グリッド	Windows Forms	12	2014	65000000
+AllComponent	AllComponent	1617000	AllComponent for ASP.NET 2014J	コンポーネントセット	ASP.NET	01	2014	66500000
+AllComponent	AllComponent	3087000	AllComponent for Windows Forms 2010J	コンポーネントセット	Windows Forms	01	2014	66500000
+AllComponent	AllComponent	5586000	AllComponent Enterprise 2014J	コンポーネントセット	共通	01	2014	66500000
+AnotherPak	AnotherPak	3672900	AnotherPak for Windows Forms 6.0J	フォームデザイン	Windows Forms	01	2014	66500000
+CADHSuite	CADHSuite	3032400	CADHSuite 2.5J	インターネット通信	共通	01	2014	66500000
+CommunicationSuite	CommunicationSuite	3087000	CommunicationSuite for .NET	インターネット通信	共通	01	2014	66500000
+EXSheet	EXSheet	6888000	EXSheet for ASP.NET 5.0J	グリッド	ASP.NET	01	2014	66500000
+EXSheet	EXSheet	7560000	EXSheet for .NET	グリッド	Windows Forms	01	2014	66500000
+Gsheet	Gsheet	4872000	Gsheet 4.0J	グリッド	Windows Forms	01	2014	66500000
+ImageView	ImageView	6027000	ImageView 16.5J Imaging Pro	画像処理	共通	01	2014	66500000
+KindInput	KindInput	5040000	KindInput for ASP.NET 3.0J	入力支援	ASP.NET	01	2014	66500000
+KindInput	KindInput	7056000	KindInput for Windows Forms 5.0J	入力支援	Windows Forms	01	2014	66500000
+MaxGrid	MaxGrid	1260000	MaxGrid for ASP.NET 1.0J	グリッド	ASP.NET	01	2014	66500000
+MaxGrid	MaxGrid	1512000	MaxGrid for Windows Forms 6.0J	グリッド	Windows Forms	01	2014	66500000
+Multi Reports	Multi Reports	11172000	Multi Reports for .NET	帳票	共通	01	2014	66500000
+SpeedGrid	SpeedGrid	3874500	SpeedGrid for Windows Forms 5.0J	グリッド	Windows Forms	01	2014	66500000
+AllComponent	AllComponent	577500	AllComponent for ASP.NET 2014J	コンポーネントセット	ASP.NET	02	2014	66500000
+AllComponent	AllComponent	2793000	AllComponent for Windows Forms 2010J	コンポーネントセット	Windows Forms	02	2014	66500000
+AllComponent	AllComponent	5785500	AllComponent Enterprise 2014J	コンポーネントセット	共通	02	2014	66500000
+AnotherPak	AnotherPak	1732500	AnotherPak for Windows Forms 6.0J	フォームデザイン	Windows Forms	02	2014	66500000
+CADHSuite	CADHSuite	4309200	CADHSuite 2.5J	インターネット通信	共通	02	2014	66500000
+CommunicationSuite	CommunicationSuite	1131900	CommunicationSuite for .NET	インターネット通信	共通	02	2014	66500000
+EXSheet	EXSheet	8064000	EXSheet for ASP.NET 5.0J	グリッド	ASP.NET	02	2014	66500000
+EXSheet	EXSheet	10752000	EXSheet for .NET	グリッド	Windows Forms	02	2014	66500000
+Gsheet	Gsheet	2184000	Gsheet 4.0J	グリッド	Windows Forms	02	2014	66500000
+ImageView	ImageView	3381000	ImageView 16.5J Imaging Pro	画像処理	共通	02	2014	66500000
+KindInput	KindInput	3402000	KindInput for ASP.NET 3.0J	入力支援	ASP.NET	02	2014	66500000
+KindInput	KindInput	2646000	KindInput for Windows Forms 5.0J	入力支援	Windows Forms	02	2014	66500000
+MaxGrid	MaxGrid	3024000	MaxGrid for ASP.NET 1.0J	グリッド	ASP.NET	02	2014	66500000
+MaxGrid	MaxGrid	1008000	MaxGrid for Windows Forms 6.0J	グリッド	Windows Forms	02	2014	66500000
+Multi Reports	Multi Reports	9702000	Multi Reports for .NET	帳票	共通	02	2014	66500000
+SpeedGrid	SpeedGrid	3213000	SpeedGrid for Windows Forms 5.0J	グリッド	Windows Forms	02	2014	66500000
+AllComponent	AllComponent	808500	AllComponent for ASP.NET 2014J	コンポーネントセット	ASP.NET	03	2014	66500000
+AllComponent	AllComponent	6027000	AllComponent for Windows Forms 2010J	コンポーネントセット	Windows Forms	03	2014	66500000
+AllComponent	AllComponent	6783000	AllComponent Enterprise 2014J	コンポーネントセット	共通	03	2014	66500000
+AnotherPak	AnotherPak	2494800	AnotherPak for Windows Forms 6.0J	フォームデザイン	Windows Forms	03	2014	66500000
+CADHSuite	CADHSuite	6224400	CADHSuite 2.5J	インターネット通信	共通	03	2014	66500000
+CommunicationSuite	CommunicationSuite	3087000	CommunicationSuite for .NET	インターネット通信	共通	03	2014	66500000
+EXSheet	EXSheet	5376000	EXSheet for ASP.NET 5.0J	グリッド	ASP.NET	03	2014	66500000
+EXSheet	EXSheet	7392000	EXSheet for .NET	グリッド	Windows Forms	03	2014	66500000
+Gsheet	Gsheet	3696000	Gsheet 4.0J	グリッド	Windows Forms	03	2014	66500000
+ImageView	ImageView	6321000	ImageView 16.5J Imaging Pro	画像処理	共通	03	2014	66500000
+KindInput	KindInput	3780000	KindInput for ASP.NET 3.0J	入力支援	ASP.NET	03	2014	66500000
+KindInput	KindInput	4410000	KindInput for Windows Forms 5.0J	入力支援	Windows Forms	03	2014	66500000
+MaxGrid	MaxGrid	4662000	MaxGrid for ASP.NET 1.0J	グリッド	ASP.NET	03	2014	66500000
+MaxGrid	MaxGrid	2520000	MaxGrid for Windows Forms 6.0J	グリッド	Windows Forms	03	2014	66500000
+Multi Reports	Multi Reports	4410000	Multi Reports for .NET	帳票	共通	03	2014	66500000
+SpeedGrid	SpeedGrid	4252500	SpeedGrid for Windows Forms 5.0J	グリッド	Windows Forms	03	2014	66500000
