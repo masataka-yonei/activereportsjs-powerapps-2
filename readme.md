@@ -7,6 +7,8 @@
 チュートリアルの詳細な手順や解説については、以下のブログ記事をご参照ください。
 
 [ActiveReportsJSでつくる！PowerAppsの帳票コンポーネント（2）](https://devlog.mescius.jp/activereportsjs-powerapps-2/)
+![ActiveReportsJS PowerApps](./activereportsjs-powerapps-2.png)
+
 
 ## 内容
 
